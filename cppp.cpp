@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
     char text;
-    cout<<"ÇëÊäÈëÄãµÄÃû×Ö"<<endl;
+    cout<<"è¯·è¾“å…¥ä½ çš„åå­—"<<endl;
     cin>>text;
-    cout<<"ÄãºÃ£¬"<<text<<"£¡"<<endl;
+    cout<<"ä½ å¥½ï¼Œ"<<text<<"ï¼"<<endl;
 
     return 0;
 }
